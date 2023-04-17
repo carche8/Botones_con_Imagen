@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My App11.Botones con imagen</string>
+    <string name="imageButton">Informacion  imagen 1</string>
+    <string name="imageButton2">Informacion  imagen 2</string>
+    <string name="imageButton3">Informacion  imagen 3</string>
+    <string name="imageButton4">Informacion  imagen 4</string>
+
+</resources>
